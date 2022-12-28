@@ -1,0 +1,2 @@
+[submodule "vendor/playwright"]
+	url = https://github.com/lawrencecchen/playwright
